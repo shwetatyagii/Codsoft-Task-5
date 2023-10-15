@@ -1,4 +1,5 @@
-# Codsoft-Task-5 : LIBRARY MANAGEMENT SYSTEM<br>Develop a system to manage books, borrowers, and transactions in a library.<br>Book Database: Store book information (title, author, ISBN) in a
+# Codsoft-Task-5 : LIBRARY MANAGEMENT SYSTEM
+Develop a system to manage books, borrowers, and transactions in a library.<br>Book Database: Store book information (title, author, ISBN) in a
 database.
 Book Search: Allow users to search for books based on title, author, or
 ISBN.
